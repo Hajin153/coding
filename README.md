@@ -23,4 +23,5 @@
 [구글](http://www.google.com, 검색사이트)
 
 ## 이미지 삽입
-~[이미지 파일명]
+![꽃](./image/flower-left.png)
+![벚꽃] (https://file.mk.co.kr/meet/yonhap/2022/04/06/image_readtop_2022_308235_0_093211.jpg)
